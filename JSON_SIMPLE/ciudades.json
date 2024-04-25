@@ -1,0 +1,29 @@
+{
+  "ciudades": [
+    {
+      "nombre": "Brasil",
+      "fauna": ["Mono", "Coatí", "Tucan"],
+      "flora": ["Roble", "Cedro", "Pino"],
+      "clima": "Tropical",
+      "region": "América del Sur",
+      "imagen":"a.jpg"
+    
+    },
+    {
+      "nombre": "Mexico",
+      "fauna": ["Oso", "Lobo", "Venado"],
+      "flora": ["Abeto", "Olmo", "Arce"],
+      "clima": "Templado",
+      "region": "América del Norte",
+      "imagen":"b.jpg"
+    },
+    {
+      "nombre": "Australia",
+      "fauna": ["Koala", "Canguro", "Emú"],
+      "flora": ["Eucalipto", "Acacia"],
+      "clima": "Árido",
+      "region": "Oceanía",
+      "imagen":"c.jpg"
+    }
+  ]
+}

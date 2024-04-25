@@ -1,0 +1,69 @@
+{
+  "preguntas": [
+    {
+      "categoria": "Pintura",
+      "pregunta": "¿Quién pintó 'La noche estrellada'?",
+      "opciones": [
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Leonardo da Vinci",
+        "Claude Monet"
+      ],
+      "respuesta_correcta": 0,
+      "pista_1": "Es conocido por su estilo postimpresionista.",
+      "pista_2": "Cortó una parte de su oreja después de una discusión con otro pintor."
+    },
+    {
+      "categoria": "Arquitectura",
+      "pregunta": "¿Cuál es el arquitecto famoso que diseñó la Ópera de Sídney?",
+      "opciones": [
+        "Frank Gehry",
+        "Antoni Gaudí",
+        "Jørn Utzon",
+        "Le Corbusier"
+      ],
+      "respuesta_correcta": 2,
+      "pista_1": "Es una obra icónica de la arquitectura moderna.",
+      "pista_2": "Es de origen danés."
+    },
+    {
+      "categoria": "Música",
+      "pregunta": "¿Quién compuso la famosa 'Quinta Sinfonía'?",
+      "opciones": [
+        "Wolfgang Amadeus Mozart",
+        "Johann Sebastian Bach",
+        "Ludwig van Beethoven",
+        "Franz Schubert"
+      ],
+      "respuesta_correcta": 2,
+      "pista_1": "Fue un destacado compositor del período de transición entre el clasicismo y el romanticismo.",
+      "pista_2": "Era de origen alemán."
+    },
+    {
+      "categoria": "Cine",
+      "pregunta": "¿Qué director de cine dirigió la película 'Pulp Fiction'?",
+      "opciones": [
+        "Steven Spielberg",
+        "Quentin Tarantino",
+        "Martin Scorsese",
+        "Stanley Kubrick"
+      ],
+      "respuesta_correcta": 1,
+      "pista_1": "Es conocido por su estilo único y su diálogo ingenioso.",
+      "pista_2": "También dirigió películas como 'Kill Bill' y 'Reservoir Dogs'."
+    },
+    {
+      "categoria": "Literatura",
+      "pregunta": "¿Quién escribió la novela 'Cien años de soledad'?",
+      "opciones": [
+        "Gabriel García Márquez",
+        "Mario Vargas Llosa",
+        "Jorge Luis Borges",
+        "Pablo Neruda"
+      ],
+      "respuesta_correcta": 0,
+      "pista_1": "Fue un escritor colombiano y premio Nobel de Literatura.",
+      "pista_2": "Es considerada una obra maestra del realismo mágico."
+    }
+  ]
+}

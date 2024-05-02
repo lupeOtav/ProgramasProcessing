@@ -1,0 +1,141 @@
+{
+  "cartas": [
+    {
+      "nombre": "El Mago",
+      "descripcion": "Representa el poder de la manifestación y la creatividad. Indica la capacidad de lograr tus metas y usar tus habilidades para crear tu propio destino.",
+      "imagen": 14,
+      "significado": "Poder personal, habilidad creativa, manifestación de deseos."
+    },
+    {
+      "nombre": "El Colgado",
+      "descripcion": "Representa la entrega y la aceptación. Indica que a veces debes dejar ir el control y confiar en el proceso. Puede indicar sacrificio y ganancias a largo plazo.",
+      "imagen": 1,
+      "significado": "Entrega, aceptación, dejar ir el control."
+    },
+    {
+      "nombre": "El Loco",
+      "descripcion": "Representa la espontaneidad, la libertad y el impulso de aventura. Indica un nuevo comienzo, tomar riesgos y confiar en el universo.",
+      "imagen": 12,
+      "significado": "Espontaneidad, libertad, nuevos comienzos."
+    },
+    {
+      "nombre": "La Fuerza",
+      "descripcion": "Simboliza el coraje, la valentía y la fuerza interior. Representa la capacidad de dominar nuestras emociones y superar obstáculos con determinación.",
+      "imagen": 8,
+      "significado": "Coraje, valentía, dominio de las emociones."
+    },
+    {
+      "nombre": "La Luna",
+      "descripcion": "Representa la intuición, la imaginación y los aspectos ocultos de la mente. Indica la necesidad de confiar en tus instintos y explorar tus emociones más profundas.",
+      "imagen": 13,
+      "significado": "Intuición, imaginación, exploración emocional."
+    },
+    {
+      "nombre": "La Estrella",
+      "descripcion": "Simboliza la esperanza, la inspiración y la renovación espiritual. Representa la conexión con la divinidad y la confianza en el camino que se presenta ante ti.",
+      "imagen": 7,
+      "significado": "Esperanza, inspiración, confianza en el camino."
+    },
+
+    {
+      "nombre": "La Emperatriz",
+      "descripcion": "Simboliza la fertilidad, la abundancia y la conexión con la naturaleza. Representa la capacidad de nutrir y dar vida a nuevas ideas y proyectos.",
+      "imagen": 4,
+      "significado": "Fertilidad, abundancia, nutrición."
+    },
+
+    {
+      "nombre": "El Emperador",
+      "descripcion": "Representa el poder, la autoridad y el orden. Indica la capacidad de establecer estructuras sólidas y tomar decisiones basadas en la razón y la responsabilidad.",
+      "imagen":3,
+      "significado": "Poder, autoridad, estructura."
+    },
+    {
+      "nombre": "La Sacerdotisa",
+      "descripcion": "Simboliza la sabiduría interior, la intuición y el misterio. Representa el acceso a conocimientos ocultos y el poder de la reflexión y la introspección.",
+      "imagen": 18,
+      "significado": "Sabiduría interior, intuición, conocimiento oculto."
+    },
+    {
+      "nombre": "El Carro",
+      "descripcion": "Representa el movimiento, el impulso y el avance. Indica la necesidad de tomar el control y dirigir tus energías hacia una meta específica.",
+      "imagen": 0,
+      "significado": "Movimiento, impulso, dirección."
+    },
+    {
+      "nombre": "La Justicia",
+      "descripcion": "Simboliza la equidad, el equilibrio y la rectitud. Representa la necesidad de tomar decisiones justas y asumir la responsabilidad de las consecuencias de tus acciones.",
+      "imagen": 11,
+      "significado": "Equidad, equilibrio, responsabilidad."
+    },
+    {
+      "nombre": "El Ermitaño",
+      "descripcion": "Simboliza la introspección, la sabiduría y la soledad. Representa la necesidad de buscar respuestas dentro de uno mismo y tomar tiempo para la reflexión.",
+      "imagen": 6,
+      "significado": "Introspección, sabiduría, soledad."
+    },
+    {
+      "nombre": "La Rueda de la Fortuna",
+      "descripcion": "Representa el cambio, la suerte y el destino. Indica que los eventos están en constante movimiento y que debemos adaptarnos a las circunstancias cambiantes.",
+      "imagen": 17,
+      "significado": "Cambio, suerte, destino."
+    },
+
+
+    {
+      "nombre": "El Sol",
+      "descripcion": "Simboliza la vitalidad, la alegría y la energía positiva. Representa la claridad mental, la confianza en uno mismo y el optimismo.",
+      "imagen": 19,
+      "significado": "Vitalidad, alegría, energía positiva."
+    },
+    {
+      "nombre": "El Juicio",
+      "descripcion": "Representa el despertar espiritual, la evaluación y la transformación. Indica la necesidad de tomar decisiones basadas en nuestros valores y enfrentar las consecuencias de nuestras acciones.",
+      "imagen": 10,
+      "significado": "Despertar espiritual, evaluación, transformación."
+    },
+    
+        {
+      "nombre": "La Muerte",
+      "descripcion": "Representa la transformación, el cambio profundo y la renovación. Indica la necesidad de dejar atrás lo viejo para dar paso a lo nuevo y abrazar las oportunidades de crecimiento.",
+      "imagen": 15,
+      "significado": "Transformación, cambio, renovación."
+    },
+    {
+      "nombre": "La Torre",
+      "descripcion": "Simboliza la destrucción, la crisis y el despertar repentino. Representa la necesidad de enfrentar situaciones difíciles y reconstruir desde cero.",
+      "imagen": 21,
+      "significado": "Destrucción, crisis, reconstrucción."
+    },
+    {
+      "nombre": "El Diablo",
+      "descripcion": "Representa la tentación, la adicción y la esclavitud emocional. Indica la necesidad de enfrentar nuestros miedos internos y liberarnos de las cadenas que nos atan.",
+      "imagen": 2,
+      "significado": "Tentación, adicción, liberación."
+    },
+    {
+      "nombre": "La Temperancia",
+      "descripcion": "Simboliza el equilibrio, la armonía y la moderación. Representa la necesidad de encontrar un punto medio y combinar diferentes aspectos de nuestra vida para alcanzar la serenidad.",
+      "imagen": 20,
+      "significado": "Equilibrio, armonía, moderación."
+    },
+    {
+      "nombre": "El Mundo",
+      "descripcion": "Representa la integración, la realización y el logro. Indica que has alcanzado un estado de plenitud y que estás preparado para enfrentar nuevos desafíos y explorar nuevas posibilidades.",
+      "imagen": 16,
+      "significado": "Integración, realización, plenitud."
+    },
+        {
+      "nombre": "El Sumo Sacerdote",
+      "descripcion": "Simboliza la sabiduría, la espiritualidad y la conexión con lo divino. Representa la necesidad de seguir tradiciones y principios éticos, así como buscar la orientación espiritual en momentos de decisión.",
+      "imagen": 9,
+      "significado": "Sabiduría, espiritualidad, tradición."
+    },
+    {
+      "nombre": "Los Enamorados",
+      "descripcion": "Representa el amor, la elección y las relaciones. Indica la necesidad de tomar decisiones basadas en el corazón y encontrar la armonía en las relaciones personales.",
+      "imagen": 5,
+      "significado": "Amor, elección, relaciones."
+    }
+  ]
+}

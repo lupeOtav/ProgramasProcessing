@@ -1,0 +1,227 @@
+{
+  "edificios": [
+    {
+      "imagen": "C1.png",
+      "ancho": 230,
+      "alto": 151,
+      "nombre":"Universidad de Artes e Ingenieria ",
+      "descripcion": "Usa este edificio para que tu ciudad sea más prospera, feliz y productiva",
+      "pesosProducidos": 50,
+      "pesosCosto": 200,
+      "recursosNecesarios": ["piedra", "hierro"]
+    },
+    {
+      "imagen": "C2.png",
+      "ancho": 229,
+      "alto": 155,
+      "nombre":"Viñedos para emprendedores",
+      "descripcion": "Tu ciudad podría ser mas alegre y fiestera si producis alcohol barato del bueno",
+      "pesosProducidos": 75,
+      "pesosCosto": 75,
+      "recursosNecesarios": ["madera"]
+    },
+    {
+      "imagen": "C3.png",
+      "ancho": 237,
+      "alto": 145,
+      "nombre":"Teatro Nacional Oficial de la República",
+      "descripcion": "Tus pobladores necesitan acceder a la cultura y tus artistas un lugar donde desarrollar sus habilidades aprendidas",
+      "pesosProducidos": 150,
+      "pesosCosto": 1000,
+      "recursosNecesarios": ["madera", "piedra"]
+    },
+    {
+     "imagen": "C4.png",
+      "ancho": 309,
+      "alto": 204,
+      "nombre":"Productora de maderas ",
+      "descripcion": "Producí madera para poder construir mas edificios",
+      "pesosProducidos": 50,
+      "pesosCosto": 100,
+      "recursosNecesarios": ["piedra", "madera"]
+    },
+    {
+      "imagen": "C5.png",
+      "ancho": 243,
+      "alto": 150,
+      "nombre":"Granjas populares",
+      "descripcion": "Desarrollá la agricultura de tu ciudad construyendo este edificio",
+      "pesosProducidos": 65,
+      "pesosCosto": 55,
+      "recursosNecesarios": ["madera"]
+    },
+    {
+      "imagen": "C6.png",
+      "ancho": 173,
+      "alto": 124,
+      "nombre":"Servicio penitenciario y seguridad",
+      "descripcion": "Construí este edificio para mantener a tu poblacion segura",
+      "pesosProducidos": 30,
+      "pesosCosto": 150,
+      "recursosNecesarios": ["madera", "piedra"]
+    },
+
+{
+  "imagen": "C7.png",
+  "ancho": 238,
+  "alto": 148,
+  "nombre": "Iglesia de la Ciudad",
+  "descripcion": "Un lugar de culto para que tus ciudadanos puedan orar y encontrar paz espiritual",
+  "pesosProducidos": 80,
+  "pesosCosto": 200,
+  "recursosNecesarios": ["madera", "piedra"]
+},
+{
+  "imagen": "C8.png",
+  "ancho": 190,
+  "alto": 127,
+  "nombre": "Fábrica de Textiles Artesanales",
+  "descripcion": "Producción de tejidos únicos y de alta calidad para vestir a tus ciudadanos",
+  "pesosProducidos": 90,
+  "pesosCosto": 160,
+  "recursosNecesarios": ["madera", "lana"]
+},
+{
+  "imagen": "C9.png",
+  "ancho": 93,
+  "alto": 95,
+  "nombre": "Torre de Vigilancia",
+  "descripcion": "Una torre alta desde la cual se puede vigilar todo el territorio de la ciudad",
+  "pesosProducidos": 60,
+  "pesosCosto": 180,
+  "recursosNecesarios": ["piedra"]
+},
+{
+  "imagen": "C10.png",
+  "ancho": 240,
+  "alto": 142,
+  "nombre": "Jardines de la República",
+  "descripcion": "Un hermoso parque para que los ciudadanos disfruten del aire libre y la naturaleza",
+  "pesosProducidos": 400,
+  "pesosCosto": 1500,
+  "recursosNecesarios": ["madera", "piedra"]
+},
+{
+  "imagen": "C11.png",
+  "ancho":244,
+  "alto": 177,
+  "nombre": "Productor Agrícola",
+  "descripcion": "Una granja moderna para cultivar una variedad de cultivos y abastecer a la ciudad de alimentos frescos",
+  "pesosProducidos": 110,
+  "pesosCosto": 250,
+  "recursosNecesarios": ["madera", "semillas"]
+},
+
+{
+  "imagen": "C12.png",
+  "ancho": 184,
+  "alto": 106,
+  "nombre": "Granja de Trigo Dorado",
+  "descripcion": "Una granja especializada en la producción de trigo de la más alta calidad",
+  "pesosProducidos": 120,
+  "pesosCosto": 200,
+  "recursosNecesarios": ["madera", "semillas"]
+},
+{
+  "imagen": "C13.png",
+  "ancho": 317,
+  "alto": 187,
+  "nombre": "Rancho de Lana Suave",
+  "descripcion": "Un rancho dedicado a la crianza de ovejas y producción de lana suave y cálida",
+  "pesosProducidos": 90,
+  "pesosCosto": 250,
+  "recursosNecesarios": ["madera"]
+},
+{
+  "imagen": "C14.png",
+  "ancho": 302,
+  "alto": 175,
+  "nombre": "Huerta Orgánica Verde Vida",
+  "descripcion": "Una huerta orgánica comprometida con el cultivo de alimentos frescos y saludables",
+  "pesosProducidos": 110,
+  "pesosCosto": 180,
+  "recursosNecesarios": ["madera", "semillas"]
+},
+{
+  "imagen": "C15.png",
+  "ancho": 242,
+  "alto": 130,
+  "nombre": "Mercado de Compra Venta",
+  "descripcion": "El lugar perfecto para intercambiar bienes y servicios con otros ciudadanos",
+  "pesosProducidos": 120,
+  "pesosCosto": 350,
+  "recursosNecesarios": ["madera", "piedra", "hierro"]
+},
+{
+  "imagen": "C16.png",
+  "ancho": 175,
+  "alto": 146,
+  "nombre": "Bazar de ceramica Brillante",
+  "descripcion": "Un mercado especializado en la produccion de ceramica y alfareria",
+  "pesosProducidos": 150,
+  "pesosCosto": 400,
+  "recursosNecesarios": ["madera", "oro"]
+},
+{
+  "imagen": "C17.png",
+  "ancho": 172,
+  "alto": 114,
+  "nombre": "Escuela de ceramica y artes del fuego",
+  "descripcion": "Un lugar vibrante donde puedes enseñar a tu población",
+  "pesosProducidos": 140,
+  "pesosCosto": 380,
+  "recursosNecesarios": ["piedra", "madera"]
+},
+{
+  "imagen": "C18.png",
+  "ancho": 244,
+  "alto": 186,
+  "nombre": "Plaza de la Seda Dorada",
+  "descripcion": "Un mercado exótico que ofrece productor diversos de buena calidad",
+  "pesosProducidos": 160,
+  "pesosCosto": 420,
+  "recursosNecesarios": ["madera", "seda"]
+},
+{
+  "imagen": "C19.png",
+  "ancho": 93,
+  "alto": 70,
+  "nombre": "Almacén de Especias Aromáticas",
+  "descripcion": "Un mercado lleno de aromas deliciosos donde puedes encontrar una variedad de especias exóticas",
+  "pesosProducidos": 130,
+  "pesosCosto": 360,
+  "recursosNecesarios": ["madera", "especias"]
+},
+{
+  "imagen": "C20.png",
+  "ancho": 112,
+  "alto": 82,
+  "nombre": "Plaza de la Madera Tallada",
+  "descripcion": "Un mercado donde se venden piezas de madera tallada y decorativa",
+  "pesosProducidos": 170,
+  "pesosCosto": 440,
+  "recursosNecesarios": ["piedra", "madera"]
+},
+{
+  "imagen": "C21.png",
+  "ancho": 96,
+  "alto": 71,
+  "nombre": "Feria del Cuero Exótico",
+  "descripcion": "Un mercado especializado en la venta de cueros exóticos y pieles sinteticas",
+  "pesosProducidos": 140,
+  "pesosCosto": 380,
+  "recursosNecesarios": ["madera", "cuero"]
+},
+{
+  "imagen": "C22.png",
+  "ancho": 110,
+  "alto": 61,
+  "nombre": "Mercado de Antigüedades",
+  "descripcion": "Un mercado único donde se pueden encontrar antigüedades a buen precio",
+  "pesosProducidos": 150,
+  "pesosCosto": 400,
+  "recursosNecesarios": ["madera", "arte"]
+}
+
+  ]
+}

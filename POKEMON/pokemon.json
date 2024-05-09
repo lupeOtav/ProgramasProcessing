@@ -1,0 +1,1191 @@
+{
+  "Pokemon": [
+  {
+    "Nombre": "Aquadra",
+    "Tipo": "Agua",
+    "Poderes": [{"p1":"00200000000", "p2":"00000012000", "p3":"00000000144", "p4":"00001300000"}],
+    "DescribePoder": [
+      {
+        "Nombre": "Torrente Azul",
+        "Efecto": "Ataque",
+        "Descripcion": "Lanza un torrente de agua azul que puede desestabilizar al oponente."
+      },
+      {
+        "Nombre": "Onda Esmeralda",
+        "Efecto": "Precisión",
+        "Descripcion": "Crea una onda de energía esmeralda que puede aumentar la precisión del usuario."
+      },
+      {
+        "Nombre": "Chapuzón Electrizante",
+        "Efecto": "Velocidad",
+        "Descripcion": "Realiza un chapuzón cargado de electricidad que puede paralizar al oponente y aumentar la velocidad del usuario."
+      },
+      {
+        "Nombre": "Escudo Acuático",
+        "Efecto": "Defensa",
+        "Descripcion": "Genera un escudo de agua que puede aumentar la defensa del usuario."
+      }
+    ],
+    "Velocidad": 55,
+    "Ataque": 60,
+    "Defensa": 70,
+    "Precisión": 65,
+    "Vida": 180
+  },
+  {
+    "Nombre": "Floligrass",
+    "Tipo": "Planta",
+    "Poderes": [{"p1":"00200000000", "p2":"00000023004", "p3":"00000000125", "p4":"00001600000"}],
+    "DescribePoder": [
+      {
+        "Nombre": "Llueve Hojas",
+        "Efecto": "Ataque",
+        "Descripcion": "Invoca una lluvia de hojas afiladas que pueden cortar al oponente."
+      },
+      {
+        "Nombre": "Polen Desorientador",
+        "Efecto": "Precisión",
+        "Descripcion": "Libera un polen desorientador que puede confundir al oponente y disminuir su precisión."
+      },
+      {
+        "Nombre": "Raíces Veloces",
+        "Efecto": "Velocidad",
+        "Descripcion": "Desata raíces rápidas que pueden aumentar la velocidad del usuario al absorber la energía del suelo."
+      },
+      {
+        "Nombre": "Cúpula Vegetal",
+        "Efecto": "Defensa",
+        "Descripcion": "Crea una cúpula de vegetación que puede aumentar la defensa del usuario."
+      }
+    ],
+    "Velocidad": 50,
+    "Ataque": 55,
+    "Defensa": 65,
+    "Precisión": 60,
+    "Vida": 160
+  },
+  {
+    "Nombre": "Electrozap",
+    "Tipo": "Eléctrico",
+    "Poderes": [{"p1":"00200000004", "p2":"00000015000", "p3":"00000000134", "p4":"00001300000"}],
+    "DescribePoder": [
+      {
+        "Nombre": "Rayo Fulminante",
+        "Efecto": "Ataque",
+        "Descripcion": "Dispara un rayo eléctrico que puede paralizar al oponente."
+      },
+      {
+        "Nombre": "Carga Estática",
+        "Efecto": "Precisión",
+        "Descripcion": "Genera una carga estática que puede aumentar la precisión del usuario."
+      },
+      {
+        "Nombre": "Turbochispazo",
+        "Efecto": "Velocidad",
+        "Descripcion": "Realiza una serie de rápidos chispazos que pueden aumentar la velocidad del usuario."
+      },
+      {
+        "Nombre": "Escudo Volt",
+        "Efecto": "Defensa",
+        "Descripcion": "Crea un escudo eléctrico que puede aumentar la defensa del usuario."
+      }
+    ],
+    "Velocidad": 70,
+    "Ataque": 65,
+    "Defensa": 55,
+    "Precisión": 75,
+    "Vida": 180
+  },
+  {
+    "Nombre": "Espectromber",
+    "Tipo": "Fantasma",
+    "Poderes": [{"p1":"00230000000", "p2":"00000015000", "p3":"00000000250", "p4":"00000000130"}],
+    "DescribePoder": [
+      {
+        "Nombre": "Aullido Nocturno",
+        "Efecto": "Ataque",
+        "Descripcion": "Lanza un aterrador aullido que puede disminuir el ataque del oponente."
+      },
+      {
+        "Nombre": "Niebla Oscura",
+        "Efecto": "Precisión",
+        "Descripcion": "Envuelve al oponente en una niebla oscura que puede disminuir su precisión."
+      },
+      {
+        "Nombre": "Teletransporte Espectral",
+        "Efecto": "Velocidad",
+        "Descripcion": "Se teletransporta a través del plano espectral, aumentando la velocidad del usuario."
+      },
+      {
+        "Nombre": "Escudo Espectral",
+        "Efecto": "Defensa",
+        "Descripcion": "Crea un escudo de energía espectral que puede aumentar la defensa del usuario."
+      }
+    ],
+    "Velocidad": 55,
+    "Ataque": 50,
+    "Defensa": 60,
+    "Precisión": 65,
+    "Vida": 160
+  },
+  {
+    "Nombre": "Calciflame",
+    "Tipo": "Fuego",
+    "Poderes": [{"p1":"00200000006", "p2":"00000012000", "p3":"00000000140", "p4":"00001300000"}],
+    "DescribePoder": [
+      {
+        "Nombre": "Llamarada Intensa",
+        "Efecto": "Ataque",
+        "Descripcion": "Libera una poderosa llamarada que puede quemar al oponente."
+      },
+      {
+        "Nombre": "Chispa Ardiente",
+        "Efecto": "Precisión",
+        "Descripcion": "Dispara una chispa ardiente que puede aumentar la precisión del usuario."
+      },
+      {
+        "Nombre": "Ráfaga Ígnea",
+        "Efecto": "Velocidad",
+        "Descripcion": "Desata una ráfaga de fuego que puede aumentar la velocidad del usuario."
+      },
+      {
+        "Nombre": "Muro de Llamas",
+        "Efecto": "Defensa",
+        "Descripcion": "Crea un muro de llamas que puede aumentar la defensa del usuario."
+      }
+    ],
+    "Velocidad": 65,
+    "Ataque": 70,
+    "Defensa": 55,
+    "Precisión": 60
+  },
+  {
+    "Nombre": "Terrabruna",
+    "Tipo": "Tierra",
+    "Poderes": [{"p1":"00220000000", "p2":"00000014000", "p3":"00000000130", "p4":"00001700000"}],
+    "DescribePoder": [
+      {
+        "Nombre": "Terremoto Descomunal",
+        "Efecto": "Ataque",
+        "Descripcion": "Provoca un terremoto descomunal que puede afectar al oponente gravemente."
+      },
+      {
+        "Nombre": "Arena Movediza",
+        "Efecto": "Precisión",
+        "Descripcion": "Crea una arena movediza que puede reducir la precisión del oponente."
+      },
+      {
+        "Nombre": "Desplazamiento Rápido",
+        "Efecto": "Velocidad",
+        "Descripcion": "Se desplaza rápidamente a través del suelo rocoso, aumentando la velocidad del usuario."
+      },
+      {
+        "Nombre": "Roca Protectora",
+        "Efecto": "Defensa",
+        "Descripcion": "Invoca una roca protectora que puede aumentar la defensa del usuario."
+      }
+    ],
+    "Velocidad": 50,
+    "Ataque": 75,
+    "Defensa": 65,
+    "Precisión": 45,
+    "Vida": 210
+  },
+  {
+    "Nombre": "Psiquilason",
+    "Tipo": "Psíquico",
+    "Poderes": [{"p1":"00200000005", "p2":"00000014000", "p3":"00000000130", "p4":"00001900000"}],
+    "DescribePoder": [
+      {
+        "Nombre": "Mente Zen",
+        "Efecto": "Ataque",
+        "Descripcion": "Envía ondas mentales que pueden confundir al oponente."
+      },
+      {
+        "Nombre": "Barrera Mental",
+        "Efecto": "Precisión",
+        "Descripcion": "Crea una barrera mental que puede aumentar la precisión del usuario."
+      },
+      {
+        "Nombre": "Telepatía Veloz",
+        "Efecto": "Velocidad",
+        "Descripcion": "Utiliza la telepatía para aumentar la velocidad del usuario."
+      },
+      {
+        "Nombre": "Reflejo Psíquico",
+        "Efecto": "Defensa",
+        "Descripcion": "Refleja los ataques psíquicos del oponente para aumentar la defensa del usuario."
+      }
+    ],
+    "Velocidad": 70,
+    "Ataque": 55,
+    "Defensa": 50,
+    "Precisión": 65,
+    "Vida": 180
+  },
+  {
+    "Nombre": "Hadalma",
+    "Tipo": "Hada",
+    "Poderes": [{"p1":"00200000005", "p2":"00000017000", "p3":"00000000160", "p4":"00001300000"}],
+    "DescribePoder": [
+      {
+        "Nombre": "Besos Encantadores",
+        "Efecto": "Ataque",
+        "Descripcion": "Lanza besos encantadores que pueden confundir al oponente."
+      },
+      {
+        "Nombre": "Aura Protectora",
+        "Efecto": "Precisión",
+        "Descripcion": "Crea un aura protectora que puede aumentar la precisión del usuario."
+      },
+      {
+        "Nombre": "Danza de las Hadas",
+        "Efecto": "Velocidad",
+        "Descripcion": "Realiza una danza encantada que puede aumentar la velocidad del usuario."
+      },
+      {
+        "Nombre": "Escudo de Ensueño",
+        "Efecto": "Defensa",
+        "Descripcion": "Crea un escudo de ensueño que puede aumentar la defensa del usuario."
+      }
+    ],
+    "Velocidad": 60,
+    "Ataque": 45,
+    "Defensa": 60,
+    "Precisión": 75,
+    "Vida": 250
+  },
+  {
+    "Nombre": "Chifly",
+    "Tipo": "Bicho",
+    "Poderes": [{"p1":"00200000006", "p2":"00000015004", "p3":"00000000160", "p4":"00001400000"}],
+    "DescribePoder": [
+      {
+        "Nombre": "Picadura Venenosa",
+        "Efecto": "Ataque",
+        "Descripcion": "Lanza una picadura venenosa que puede envenenar al oponente."
+      },
+      {
+        "Nombre": "Red de Seda",
+        "Efecto": "Precisión",
+        "Descripcion": "Teje una red de seda que puede atrapar al oponente y disminuir su precisión."
+      },
+      {
+        "Nombre": "Aleteo Rápido",
+        "Efecto": "Velocidad",
+        "Descripcion": "Realiza un aleteo rápido que puede aumentar la velocidad del usuario."
+      },
+      {
+        "Nombre": "Caparazón Protector",
+        "Efecto": "Defensa",
+        "Descripcion": "Fortifica su caparazón para aumentar la defensa del usuario."
+      }
+    ],
+    "Velocidad": 55,
+    "Ataque": 50,
+    "Defensa": 40,
+    "Precisión": 65,
+    "Vida": 200
+  },
+  {
+    "Nombre": "Grissand",
+    "Tipo": "Normal",
+    "Poderes": [{"p1":"00210000000", "p2":"00000023000", "p3":"00000000170", "p4":"00001300000"}],
+    "DescribePoder": [
+      {
+        "Nombre": "Zarpazo Salvaje",
+        "Efecto": "Ataque",
+        "Descripcion": "Realiza un zarpazo salvaje que puede causar daño al oponente."
+      },
+      {
+        "Nombre": "Gruñido Desafiante",
+        "Efecto": "Precisión",
+        "Descripcion": "Emite un gruñido desafiante que puede disminuir la precisión del oponente."
+      },
+      {
+        "Nombre": "Carrera Ágil",
+        "Efecto": "Velocidad",
+        "Descripcion": "Aumenta la velocidad del usuario al realizar una carrera ágil."
+      },
+      {
+        "Nombre": "Refuerzo Corporal",
+        "Efecto": "Defensa",
+        "Descripcion": "Refuerza su cuerpo para aumentar la defensa del usuario."
+      }
+    ],
+    "Velocidad": 60,
+    "Ataque": 65,
+    "Defensa": 55,
+    "Precisión": 50,
+    "Vida": 180
+  },
+  {
+    "Nombre": "Glacifrost",
+    "Tipo": "Hielo",
+    "Poderes": [{"p1":"00200000007", "p2":"00000026007", "p3":"00000000130", "p4":"00001900000"}],
+    "DescribePoder": [
+      {
+        "Nombre": "Viento Gélido",
+        "Efecto": "Ataque",
+        "Descripcion": "Lanza un viento gélido que puede congelar al oponente."
+      },
+      {
+        "Nombre": "Brisa Congelante",
+        "Efecto": "Precisión",
+        "Descripcion": "Genera una brisa congelante que puede disminuir la precisión del oponente."
+      },
+      {
+        "Nombre": "Corriente Helada",
+        "Efecto": "Velocidad",
+        "Descripcion": "Crea una corriente de aire helado que puede aumentar la velocidad del usuario."
+      },
+      {
+        "Nombre": "Escudo Glacial",
+        "Efecto": "Defensa",
+        "Descripcion": "Forma un escudo de hielo que puede aumentar la defensa del usuario."
+      }
+    ],
+    "Velocidad": 65,
+    "Ataque": 55,
+    "Defensa": 60,
+    "Precisión": 70,
+    "Vida": 220
+  },
+  {
+    "Nombre": "Rocoguardián",
+    "Tipo": "Roca",
+    "Poderes": [{"p1":"00200000000", "p2":"00000012000", "p3":"00000000140", "p4":"00001800000"}],
+    "DescribePoder": [
+      {
+        "Nombre": "Avalancha Rocosa",
+        "Efecto": "Ataque",
+        "Descripcion": "Desata una avalancha de rocas que puede dañar al oponente."
+      },
+      {
+        "Nombre": "Reflector Mineral",
+        "Efecto": "Precisión",
+        "Descripcion": "Utiliza un reflector mineral que puede aumentar la precisión del usuario."
+      },
+      {
+        "Nombre": "Temblores Férreos",
+        "Efecto": "Velocidad",
+        "Descripcion": "Provoca temblores férreos que pueden aumentar la velocidad del usuario."
+      },
+      {
+        "Nombre": "Escudo Pétreo",
+        "Efecto": "Defensa",
+        "Descripcion": "Crea un escudo pétreo que puede aumentar la defensa del usuario."
+      }
+    ],
+    "Velocidad": 50,
+    "Ataque": 70,
+    "Defensa": 75,
+    "Precisión": 45,
+    "Vida": 250
+  },
+  {
+    "Nombre": "Ventos",
+    "Tipo": "Volador",
+    "Poderes": [{"p1":"00200000000", "p2":"00000015000", "p3":"00000000180", "p4":"00001300000"}],
+    "DescribePoder": [
+      {
+        "Nombre": "Tormenta Alada",
+        "Efecto": "Ataque",
+        "Descripcion": "Crea una tormenta de viento cortante que puede dañar al oponente."
+      },
+      {
+        "Nombre": "Brisa Refrescante",
+        "Efecto": "Precisión",
+        "Descripcion": "Genera una brisa refrescante que puede aumentar la precisión del usuario."
+      },
+      {
+        "Nombre": "Vuelo Veloz",
+        "Efecto": "Velocidad",
+        "Descripcion": "Surca los cielos a gran velocidad, aumentando la velocidad del usuario."
+      },
+      {
+        "Nombre": "Ala Protectora",
+        "Efecto": "Defensa",
+        "Descripcion": "Despliega sus alas para formar una barrera protectora que aumenta la defensa del usuario."
+      }
+    ],
+    "Velocidad": 80,
+    "Ataque": 65,
+    "Defensa": 55,
+    "Precisión": 75,
+    "Vida": 160
+  },
+  {
+    "Nombre": "Mistrower",
+    "Tipo": "Veneno",
+    "Poderes": [{"p1":"00200000008", "p2":"00000012004", "p3":"00000000148", "p4":"00001300008"}],
+    "DescribePoder": [
+      {
+        "Nombre": "Nube Tóxica",
+        "Efecto": "Ataque",
+        "Descripcion": "Crea una nube tóxica que puede envenenar al oponente."
+      },
+      {
+        "Nombre": "Gas Paralizador",
+        "Efecto": "Precisión",
+        "Descripcion": "Libera un gas paralizador que puede disminuir la precisión del oponente."
+      },
+      {
+        "Nombre": "Nebulosa Venenosa",
+        "Efecto": "Velocidad",
+        "Descripcion": "Genera una nebulosa venenosa que puede aumentar la velocidad del usuario."
+      },
+      {
+        "Nombre": "Barrera Venenosa",
+        "Efecto": "Defensa",
+        "Descripcion": "Crea una barrera de veneno que puede aumentar la defensa del usuario."
+      }
+    ],
+    "Velocidad": 60,
+    "Ataque": 55,
+    "Defensa": 70,
+    "Precisión": 65,
+    "Vida": 180
+  },
+  {
+    "Nombre": "Aerodrake",
+    "Tipo": "Dragón",
+    "Poderes": [{"p1":"00210000000", "p2":"00000013000", "p3":"00000000140", "p4":"00001700000"}],
+    "DescribePoder": [
+      {
+        "Nombre": "Aliento Elemental",
+        "Efecto": "Ataque",
+        "Descripcion": "Exhala un aliento elemental que puede causar daño al oponente."
+      },
+      {
+        "Nombre": "Vuelo Majestuoso",
+        "Efecto": "Precisión",
+        "Descripcion": "Realiza un vuelo majestuoso que puede aumentar la precisión del usuario."
+      },
+      {
+        "Nombre": "Aceleración Aérea",
+        "Efecto": "Velocidad",
+        "Descripcion": "Acelera en el aire, aumentando la velocidad del usuario."
+      },
+      {
+        "Nombre": "Escamas Resistentes",
+        "Efecto": "Defensa",
+        "Descripcion": "Endurece sus escamas para aumentar la defensa del usuario."
+      }
+    ],
+    "Velocidad": 70,
+    "Ataque": 75,
+    "Defensa": 60,
+    "Precisión": 65,
+    "Vida": 180
+  },
+  {
+    "Nombre": "Plasmaguard",
+    "Tipo": "Acero",
+    "Poderes": [{"p1":"00320000000", "p2":"00000014000", "p3":"00000000140", "p4":"00001800000"}],
+    "DescribePoder": [
+      {
+        "Nombre": "Fusión Metálica",
+        "Efecto": "Ataque",
+        "Descripcion": "Libera un torrente de metal fundido que puede derretir al oponente."
+      },
+      {
+        "Nombre": "Barrera de Hierro",
+        "Efecto": "Precisión",
+        "Descripcion": "Crea una barrera de hierro que puede aumentar la precisión del usuario."
+      },
+      {
+        "Nombre": "Velocidad Magnética",
+        "Efecto": "Velocidad",
+        "Descripcion": "Aumenta la velocidad del usuario mediante la atracción magnética."
+      },
+      {
+        "Nombre": "Escudo de Acero",
+        "Efecto": "Defensa",
+        "Descripcion": "Crea un escudo de acero que puede aumentar la defensa del usuario."
+      }
+    ],
+    "Velocidad": 55,
+    "Ataque": 70,
+    "Defensa": 80,
+    "Precisión": 50,
+    "Vida": 250
+  },
+  {
+    "Nombre": "Floraboom",
+    "Tipo": "Planta",
+    "Poderes": [{"p1":"00200000006", "p2":"00000022004", "p3":"00000000140", "p4":"00001400000"}],
+    "DescribePoder": [
+      {
+        "Nombre": "Llamarada Floral",
+        "Efecto": "Ataque",
+        "Descripcion": "Lanza una llamarada de energía floral que puede quemar al oponente."
+      },
+      {
+        "Nombre": "Polen Paralizador",
+        "Efecto": "Precisión",
+        "Descripcion": "Libera un polen paralizador que puede reducir la precisión del oponente."
+      },
+      {
+        "Nombre": "Pétalos Veloces",
+        "Efecto": "Velocidad",
+        "Descripcion": "Libera rápidamente una ráfaga de pétalos que pueden aumentar la velocidad del usuario."
+      },
+      {
+        "Nombre": "Defensa Natural",
+        "Efecto": "Defensa",
+        "Descripcion": "Aprovecha la fuerza de la naturaleza para aumentar la defensa del usuario."
+      }
+    ],
+    "Velocidad": 65,
+    "Ataque": 60,
+    "Defensa": 55,
+    "Precisión": 70,
+    "Vida": 180
+  },
+  {
+    "Nombre": "Geogritón",
+    "Tipo": "Tierra",
+    "Poderes": [{"p1":"00230000000", "p2":"00000012000", "p3":"00000000140", "p4":"00001900000"}],
+    "DescribePoder": [
+      {
+        "Nombre": "Terremoto Devastador",
+        "Efecto": "Ataque",
+        "Descripcion": "Provoca un terremoto devastador que puede causar daño al oponente."
+      },
+      {
+        "Nombre": "Polvo Reductor",
+        "Efecto": "Precisión",
+        "Descripcion": "Esparce un polvo que puede reducir la precisión del oponente."
+      },
+      {
+        "Nombre": "Aceleración Telúrica",
+        "Efecto": "Velocidad",
+        "Descripcion": "Aumenta la velocidad del usuario al canalizar la energía telúrica."
+      },
+      {
+        "Nombre": "Escudo Terráqueo",
+        "Efecto": "Defensa",
+        "Descripcion": "Crea un escudo hecho de tierra que puede aumentar la defensa del usuario."
+      }
+    ],
+    "Velocidad": 55,
+    "Ataque": 70,
+    "Defensa": 75,
+    "Precisión": 50,
+    "Vida": 180
+  },
+  {
+    "Nombre": "Chisparrayo",
+    "Tipo": "Eléctrico",
+    "Poderes": [{"p1":"00220000005", "p2":"00000017000", "p3":"00000000180","p4":"00001400000"}],
+    "DescribePoder": [
+      {
+        "Nombre": "Impacto Eléctrico",
+        "Efecto": "Ataque",
+        "Descripcion": "Descarga una poderosa corriente eléctrica que puede paralizar al oponente."
+      },
+      {
+        "Nombre": "Rayo Cegador",
+        "Efecto": "Precisión",
+        "Descripcion": "Dispara un rayo brillante que puede deslumbrar al oponente y reducir su precisión."
+      },
+      {
+        "Nombre": "Carga Electrizante",
+        "Efecto": "Velocidad",
+        "Descripcion": "Se carga de electricidad, aumentando su velocidad de forma temporal."
+      },
+      {
+        "Nombre": "Campo Magnético",
+        "Efecto": "Defensa",
+        "Descripcion": "Genera un campo magnético que puede aumentar la defensa del usuario contra ataques eléctricos."
+      }
+    ],
+    "Velocidad": 70,
+    "Ataque": 65,
+    "Defensa": 55,
+    "Precisión": 60,
+    "Vida": 190
+  },
+{
+  "Nombre": "Nimbovento",
+  "Tipo": "Volador",
+  "Poderes": [
+    {"p1": "00200000000", "p2": "00000014000", "p3": "00000000160", "p4": "00001300000"}
+  ],
+  "DescribePoder": [
+    {
+      "Nombre": "Tornado Cortante",
+      "Efecto": "Ataque",
+      "Descripcion": "Crea un tornado afilado que puede cortar al oponente."
+    },
+    {
+      "Nombre": "Viento Favorable",
+      "Efecto": "Precisión",
+      "Descripcion": "Invoca un viento favorable que puede aumentar la precisión del usuario."
+    },
+    {
+      "Nombre": "Ascenso Rápido",
+      "Efecto": "Velocidad",
+      "Descripcion": "Realiza un ascenso rápido que puede aumentar la velocidad del usuario."
+    },
+    {
+      "Nombre": "Coraza Aérea",
+      "Efecto": "Defensa",
+      "Descripcion": "Despliega una coraza hecha de viento que puede aumentar la defensa del usuario."
+    }
+  ],
+  "Velocidad": 75,
+  "Ataque": 60,
+  "Defensa": 55,
+  "Precisión": 70,
+  "Vida": 180
+},
+{
+  "Nombre": "Frostbite",
+  "Tipo": "Hielo",
+  "Poderes": [
+    {"p1": "00200000017", "p2": "00000014000", "p3": "00000000180", "p4": "00001900000"}
+  ],
+  "DescribePoder": [
+    {
+      "Nombre": "Viento Gélido",
+      "Efecto": "Ataque",
+      "Descripcion": "Desata un viento gélido que puede congelar al oponente."
+    },
+    {
+      "Nombre": "Copos de Nieve",
+      "Efecto": "Precisión",
+      "Descripcion": "Lanza copos de nieve que aumentan la precisión del usuario."
+    },
+    {
+      "Nombre": "Deslizamiento Glacial",
+      "Efecto": "Velocidad",
+      "Descripcion": "Se desliza sobre el hielo aumentando la velocidad del usuario."
+    },
+    {
+      "Nombre": "Muro de Hielo",
+      "Efecto": "Defensa",
+      "Descripcion": "Crea un muro de hielo que aumenta la defensa del usuario."
+    }
+  ],
+  "Velocidad": 55,
+  "Ataque": 70,
+  "Defensa": 60,
+  "Precisión": 65,
+  "Vida": 190
+},
+{
+  "Nombre": "Spectreelle",
+  "Tipo": "Fantasma",
+  "Poderes": [
+    {"p1": "00200000014", "p2": "00000012005", "p3": "00000000170", "p4": "00001300000"}
+  ],
+  "DescribePoder": [
+    {
+      "Nombre": "Gemido Nocturno",
+      "Efecto": "Ataque",
+      "Descripcion": "Emite un gemido escalofriante que puede paralizar al oponente de miedo."
+    },
+    {
+      "Nombre": "Sombras Danzantes",
+      "Efecto": "Precisión",
+      "Descripcion": "Manipula sombras para confundir al oponente y disminuir su precisión."
+    },
+    {
+      "Nombre": "Movimiento Espectral",
+      "Efecto": "Velocidad",
+      "Descripcion": "Se desplaza entre dimensiones aumentando la velocidad del usuario."
+    },
+    {
+      "Nombre": "Velos Fantasmales",
+      "Efecto": "Defensa",
+      "Descripcion": "Envuelve al usuario en velos fantasmales que aumentan su defensa."
+    }
+  ],
+  "Velocidad": 60,
+  "Ataque": 55,
+  "Defensa": 65,
+  "Precisión": 75,
+  "Vida": 280
+},
+{
+  "Nombre": "Mysticharm",
+  "Tipo": "Psíquico",
+  "Poderes": [
+    {"p1": "00200000009", "p2": "00000014000", "p3": "00000000150", "p4": "00001300000"}
+  ],
+  "DescribePoder": [
+    {
+      "Nombre": "Mirada Hipnótica",
+      "Efecto": "Ataque",
+      "Descripcion": "Fija una mirada hipnótica que puede confundir y debilitar al oponente."
+    },
+    {
+      "Nombre": "Aura de Serenidad",
+      "Efecto": "Precisión",
+      "Descripcion": "Irradia un aura calmada que aumenta la precisión del usuario."
+    },
+    {
+      "Nombre": "Telepatía Veloz",
+      "Efecto": "Velocidad",
+      "Descripcion": "Comunica pensamientos de forma instantánea, aumentando la velocidad del usuario."
+    },
+    {
+      "Nombre": "Escudo Mental",
+      "Efecto": "Defensa",
+      "Descripcion": "Crea un escudo mental que aumenta la defensa del usuario contra ataques psíquicos."
+    }
+  ],
+  "Velocidad": 70,
+  "Ataque": 65,
+  "Defensa": 55,
+  "Precisión": 80,
+  "Vida": 170
+},
+{
+  "Nombre": "Aquastorm",
+  "Tipo": "Agua",
+  "Poderes": [
+    {"p1": "00210000000", "p2": "00000013000", "p3": "00000000150", "p4": "00001300000"}
+  ],
+  "DescribePoder": [
+    {
+      "Nombre": "Tormenta Marina",
+      "Efecto": "Ataque",
+      "Descripcion": "Invoca una tormenta acuática que puede desatar olas devastadoras."
+    },
+    {
+      "Nombre": "Velo de Rocío",
+      "Efecto": "Precisión",
+      "Descripcion": "Envuelve al usuario en un velo de rocío que aumenta su precisión."
+    },
+    {
+      "Nombre": "Remolino Acelerado",
+      "Efecto": "Velocidad",
+      "Descripcion": "Crea un remolino que aumenta la velocidad del usuario al seguir su corriente."
+    },
+    {
+      "Nombre": "Barrera Marina",
+      "Efecto": "Defensa",
+      "Descripcion": "Eleva una barrera acuática que aumenta la defensa del usuario."
+    }
+],
+  "Velocidad": 65,
+  "Ataque": 70,
+  "Defensa": 60,
+  "Precisión": 75,
+  "Vida": 190
+},
+{
+  "Nombre": "Magmaflare",
+  "Tipo": "Fuego",
+  "Poderes": [
+    {"p1": "00200000006", "p2": "00000014000", "p3": "00000000146", "p4": "00001300006"}
+  ],
+  "DescribePoder": [
+    {
+      "Nombre": "Magma ardiente",
+      "Efecto": "Ataque",
+      "Descripcion": "Lanza llamas que arden con un intenso calor de magma, puede quemar al oponente."
+    },
+    {
+      "Nombre": "Niebla de Vapor",
+      "Efecto": "Precisión",
+      "Descripcion": "Genera una niebla de vapor que aumenta la precisión del usuario."
+    },
+    {
+      "Nombre": "Salpicadura Ígnea",
+      "Efecto": "Velocidad",
+      "Descripcion": "Salpica con fuego que aumenta la velocidad del usuario al evaporar el agua cercana."
+    },
+    {
+      "Nombre": "Escudo Infernal",
+      "Efecto": "Defensa",
+      "Descripcion": "Crea un escudo ardiente que aumenta la defensa del usuario."
+    }
+  ],
+  "Velocidad": 60,
+  "Ataque": 75,
+  "Defensa": 50,
+  "Precisión": 40,
+  "Vida": 200
+},
+{
+  "Nombre": "Ironclad",
+  "Tipo": "Acero",
+  "Poderes": [
+    {"p1": "00200000000", "p2": "00000012000", "p3": "00000000140", "p4": "00001300000"}
+  ],
+  "DescribePoder": [
+    {
+      "Nombre": "Martillo de Hierro",
+      "Efecto": "Ataque",
+      "Descripcion": "Golpea al oponente con un poderoso martillo de hierro."
+    },
+    {
+      "Nombre": "Afilado de Acero",
+      "Efecto": "Precisión",
+      "Descripcion": "Afina su cuerpo con filo de acero para aumentar su precisión."
+    },
+    {
+      "Nombre": "Marcha Firme",
+      "Efecto": "Velocidad",
+      "Descripcion": "Avanza con pasos firmes que aumentan la velocidad del usuario."
+    },
+    {
+      "Nombre": "Escudo de Titanio",
+      "Efecto": "Defensa",
+      "Descripcion": "Crea un escudo de titanio que aumenta la defensa del usuario."
+    }
+  ],
+  "Velocidad": 50,
+  "Ataque": 75,
+  "Defensa": 90,
+  "Precisión": 70,
+  "Vida": 200
+},
+{
+  "Nombre": "Toxiquake",
+  "Tipo": "Veneno",
+  "Poderes": [
+    {"p1": "00200000008", "p2": "00000023008", "p3": "00000000180", "p4": "00001300000"}
+  ],
+  "DescribePoder": [
+    {
+      "Nombre": "Vórtice Tóxico",
+      "Efecto": "Ataque",
+      "Descripcion": "Genera un vórtice de sustancias tóxicas que afecta al oponente."
+    },
+    {
+      "Nombre": "Nube Venenosa",
+      "Efecto": "Precisión",
+      "Descripcion": "Crea una nube venenosa que disminuye la precisión del oponente."
+    },
+    {
+      "Nombre": "Fuga Mortal",
+      "Efecto": "Velocidad",
+      "Descripcion": "Se desliza velozmente entre la niebla tóxica aumentando su velocidad."
+    },
+    {
+      "Nombre": "Escudo Antitoxinas",
+      "Efecto": "Defensa",
+      "Descripcion": "Crea un escudo que protege contra toxinas y aumenta la defensa."
+    }
+  ],
+  "Velocidad": 60,
+  "Ataque": 80,
+  "Defensa": 70,
+  "Precisión": 75,
+  "Vida": 180
+},
+{
+  "Nombre": "Fairycharm",
+  "Tipo": "Hada",
+  "Poderes": [
+    {"p1": "00200000005", "p2": "00000014000", "p3": "00000000190", "p4": "00001600000"}
+  ],
+  "DescribePoder": [
+    {
+      "Nombre": "Besos Encantados",
+      "Efecto": "Ataque",
+      "Descripcion": "Lanza besos encantados que pueden confundir al oponente."
+    },
+    {
+      "Nombre": "Polvo de Estrellas",
+      "Efecto": "Precisión",
+      "Descripcion": "Esparce polvo de estrellas que disminuye la precisión del oponente."
+    },
+    {
+      "Nombre": "Danza de Hadas",
+      "Efecto": "Velocidad",
+      "Descripcion": "Baila una danza encantada que aumenta la velocidad del usuario."
+    },
+    {
+      "Nombre": "Escudo de Luz",
+      "Efecto": "Defensa",
+      "Descripcion": "Crea un escudo de luz que aumenta la defensa del usuario."
+    }
+  ],
+  "Velocidad": 65,
+  "Ataque": 70,
+  "Defensa": 75,
+  "Precisión": 80,
+  "Vida": 190
+},
+{
+  "Nombre": "Tranquility",
+  "Tipo": "Normal",
+  "Poderes": [
+    {"p1": "00200000002", "p2": "00000019000", "p3": "00000000290", "p4": "00002300000"}
+  ],
+  "DescribePoder": [
+    {
+      "Nombre": "Aullido Calmante",
+      "Efecto": "Ataque",
+      "Descripcion": "Emite un aullido calmante que puede inducir sueño al oponente."
+    },
+    {
+      "Nombre": "Silbido Distraído",
+      "Efecto": "Precisión",
+      "Descripcion": "Silba una melodía relajante que disminuye la precisión del oponente."
+    },
+    {
+      "Nombre": "Paso Pacífico",
+      "Efecto": "Velocidad",
+      "Descripcion": "Caminata tranquila que aumenta la velocidad del usuario."
+    },
+    {
+      "Nombre": "Abrazo Reconfortante",
+      "Efecto": "Defensa",
+      "Descripcion": "Abraza con ternura para disminuir la defensa del oponente."
+    }
+  ],
+  "Velocidad": 70,
+  "Ataque": 65,
+  "Defensa": 80,
+  "Precisión": 75,
+  "Vida": 150
+},
+{
+  "Nombre": "Rocktitan",
+  "Tipo": "Roca",
+  "Poderes": [
+    {"p1": "00200000000", "p2": "00000012000", "p3": "00000000130", "p4": "00001900000"}
+  ],
+  "DescribePoder": [
+    {
+      "Nombre": "Embiste Rocoso",
+      "Efecto": "Ataque",
+      "Descripcion": "Embiste con una roca pesada que puede causar daño considerable."
+    },
+    {
+      "Nombre": "Deslizamiento de Tierra",
+      "Efecto": "Precisión",
+      "Descripcion": "Provoca un deslizamiento de tierra que disminuye la precisión del oponente."
+    },
+    {
+      "Nombre": "Avalancha Poderosa",
+      "Efecto": "Velocidad",
+      "Descripcion": "Desata una avalancha de rocas que puede aumentar la velocidad del usuario."
+    },
+    {
+      "Nombre": "Muralla de Granito",
+      "Efecto": "Defensa",
+      "Descripcion": "Crea una muralla de granito que aumenta la defensa del usuario."
+    }
+  ],
+  "Velocidad: 55,
+  "Ataque": 85,
+  "Defensa": 100,
+  "Precisión": 70,
+  "Vida": 220
+},
+{
+  "Nombre": "Grapperino",
+  "Tipo": "Lucha",
+  "Poderes": [
+    {"p1": "00210000008", "p2": "00001800000", "p3": "00000000130", "p4": "00002900008"}
+  ],
+  "DescribePoder": [
+    {
+      "Nombre": "Golpe Aplastante",
+      "Efecto": "Ataque",
+      "Descripcion": "Descarga un golpe poderoso que puede dejar aturdido al oponente."
+    },
+    {
+      "Nombre": "Defensa Firme",
+      "Efecto": "Defensa",
+      "Descripcion": "Adopta una postura defensiva sólida que puede aumentar la defensa del usuario."
+    },
+    {
+      "Nombre": "Ráfaga Veloz",
+      "Efecto": "Velocidad",
+      "Descripcion": "Realiza una ráfaga de movimientos rápidos que puede aumentar la velocidad del usuario."
+    },
+    {
+      "Nombre": "Furia Concentrada",
+      "Efecto": "Ataque",
+      "Descripcion": "Canaliza toda su furia en un golpe concentrado que puede ignorar la defensa del oponente."
+    }
+  ],
+  "Velocidad": 75,
+  "Ataque": 95,
+  "Defensa": 65,
+  "Precisión": 70,
+  "Vida": 170
+},
+  {
+    "Nombre": "Kickessa",
+    "Tipo": "Lucha",
+    "Poderes": [
+      {"p1":"00240000010", "p2":"00001300000", "p3":"00000000185", "p4":"00002900000"}
+    ],
+    "DescribePoder": [
+      {
+        "Nombre": "Patada Giratoria",
+        "Efecto": "Ataque",
+        "Descripcion": "Ejecuta una patada giratoria que puede golpear múltiples veces al oponente."
+      },
+      {
+        "Nombre": "Defensa en Movimiento",
+        "Efecto": "Defensa",
+        "Descripcion": "Utiliza movimientos defensivos rápidos que pueden aumentar la defensa del usuario."
+      },
+      {
+        "Nombre": "Ráfaga de Energía",
+        "Efecto": "Velocidad",
+        "Descripcion": "Libera una ráfaga de energía que puede aumentar la velocidad del usuario."
+      },
+      {
+        "Nombre": "Furia Focalizada",
+        "Efecto": "Ataque",
+        "Descripcion": "Concentra su furia en un solo golpe devastador que puede romper la defensa del oponente."
+      }
+    ],
+    "Velocidad": 100,
+    "Ataque": 95,
+    "Defensa": 60,
+    "Precisión": 75,
+    "Vida": 140
+  },
+  {
+    "Nombre": "Shadowpig",
+    "Tipo": "Siniestro",
+    "Poderes": [
+      {"p1":"00202300000", "p2":"00000012000", "p3":"00000000130", "p4":"00001600000"}
+    ],
+    "DescribePoder": [
+      {
+        "Nombre": "Garra Sombría",
+        "Efecto": "Ataque",
+        "Descripcion": "Desata una garra oscura que puede atravesar las defensas del oponente."
+      },
+      {
+        "Nombre": "Camuflaje Nocturno",
+        "Efecto": "Precisión",
+        "Descripcion": "Se envuelve en sombras para aumentar su evasión y precisión."
+      },
+      {
+        "Nombre": "Emboscada Veloz",
+        "Efecto": "Velocidad",
+        "Descripcion": "Realiza una emboscada rápida desde las sombras que puede aumentar la velocidad del usuario."
+      },
+      {
+        "Nombre": "Manto Oscuro",
+        "Efecto": "Defensa",
+        "Descripcion": "Crea un manto oscuro que puede aumentar la defensa del usuario contra los ataques físicos."
+      }
+    ],
+    "Velocidad": 75,
+    "Ataque": 70,
+    "Defensa": 65,
+    "Precisión": 80,
+    "Vida": 190
+  },
+  {
+    "Nombre": "Darkress",
+    "Tipo": "Siniestro",
+    "Poderes": [
+      {"p1":"00290000000", "p2":"00000013005", "p3":"00000000130", "p4":"00001300000"}
+    ],
+    "DescribePoder": [
+      {
+        "Nombre": "Noctámbulo",
+        "Efecto": "Ataque",
+        "Descripcion": "Utiliza la oscuridad para realizar un ataque sorpresivo con mayor poder."
+      },
+      {
+        "Nombre": "Reflejo Sombrío",
+        "Efecto": "Precisión",
+        "Descripcion": "Crea un reflejo de sombras que puede confundir al oponente y disminuir su precisión."
+      },
+      {
+        "Nombre": "Ráfaga Tenebrosa",
+        "Efecto": "Velocidad",
+        "Descripcion": "Libera una ráfaga de energía oscura que puede aumentar la velocidad del usuario."
+      },
+      {
+        "Nombre": "Barrera Umbral",
+        "Efecto": "Defensa",
+        "Descripcion": "Eleva una barrera de energía oscura que puede aumentar la defensa del usuario."
+      }
+    ],
+    "Velocidad": 70,
+    "Ataque": 75,
+    "Defensa": 60,
+    "Precisión": 75,
+    "Vida": 170
+  },
+  {
+    "Nombre": "Dracolance",
+    "Tipo": "Dragón",
+    "Poderes": [
+      {"p1":"00200000002", "p2":"00000014000", "p3":"00000000150", "p4":"00001700000"}
+    ],
+    "DescribePoder": [
+      {
+        "Nombre": "Aliento Ardiente",
+        "Efecto": "Ataque",
+        "Descripcion": "Exhala un aliento ardiente que puede causar quemaduras al oponente."
+      },
+      {
+        "Nombre": "Garras Afiladas",
+        "Efecto": "Precisión",
+        "Descripcion": "Afila sus garras para aumentar su precisión y poder de corte."
+      },
+      {
+        "Nombre": "Vuelo Majestuoso",
+        "Efecto": "Velocidad",
+        "Descripcion": "Eleva su vuelo con majestuosidad para aumentar su velocidad y agilidad."
+      },
+      {
+        "Nombre": "Coraza Escamosa",
+        "Efecto": "Defensa",
+        "Descripcion": "Refuerza su piel con escamas para aumentar su defensa contra ataques físicos."
+      }
+    ],
+    "Velocidad": 80,
+    "Ataque": 85,
+    "Defensa": 75,
+    "Precisión": 70,
+    "Vida": 210
+  },
+  {
+    "Nombre": "Bugblade",
+    "Tipo": "Bicho",
+    "Poderes": [
+      {"p1":"00200000000", "p2":"00000000160", "p3":"00000000129", "p4":"00001300000"}
+    ],
+    "DescribePoder": [
+      {
+        "Nombre": "Corte Incisivo",
+        "Efecto": "Ataque",
+        "Descripcion": "Realiza un corte rápido y preciso con sus afiladas cuchillas."
+      },
+      {
+        "Nombre": "Agilidad Insectoide",
+        "Efecto": "Velocidad",
+        "Descripcion": "Utiliza la agilidad natural de los insectos para aumentar su velocidad y evasión."
+      },
+      {
+        "Nombre": "Veneno Paralizante",
+        "Efecto": "Ataque",
+        "Descripcion": "Inyecta un veneno paralizante que puede dejar inmóvil al oponente."
+      },
+      {
+        "Nombre": "Caparazón Defensivo",
+        "Efecto": "Defensa",
+        "Descripcion": "Refuerza su caparazón para aumentar su defensa contra ataques físicos y veneno."
+      }
+    ],
+    "Velocidad": 70,
+    "Ataque": 75,
+    "Defensa": 65,
+    "Precisión": 80,
+    "Vida": 150
+  }
+]
+}
+
+

@@ -1,0 +1,79 @@
+{"ciudades": [
+  {
+    "clima": "Tropical",
+    "fauna": [
+      "Mono",
+      "Coatí",
+      "Tucan"
+    ],
+    "flora": [
+      "Roble",
+      "Cedro",
+      "Pino"
+    ],
+    "imagen": "a.jpg",
+    "region": "América del Sur",
+    "nombre": "Brasil"
+  },
+  {
+    "clima": "Templado",
+    "fauna": [
+      "Oso",
+      "Lobo",
+      "Venado"
+    ],
+    "flora": [
+      "Abeto",
+      "Olmo",
+      "Arce"
+    ],
+    "imagen": "b.jpg",
+    "region": "América del Norte",
+    "nombre": "Mexico"
+  },
+  {
+    "clima": "Árido",
+    "fauna": [
+      "Koala",
+      "Canguro",
+      "Emú"
+    ],
+    "flora": [
+      "Eucalipto",
+      "Acacia"
+    ],
+    "imagen": "c.jpg",
+    "region": "Oceanía",
+    "nombre": "Australia"
+  },
+  {
+    "clima": "Árido",
+    "fauna": [
+      "León",
+      "Elefante"
+    ],
+    "flora": [
+      "Arce",
+      "Acacia"
+    ],
+    "imagen": "d.jpg",
+    "region": "África",
+    "nombre": "Sudan"
+  },
+  {
+    "clima": "Templado",
+    "fauna": ["Carpincho"],
+    "flora": ["Pino"],
+    "imagen": "e.jpg",
+    "region": "America del sur",
+    "nombre": "Argentina"
+  },
+  {
+    "clima": "Frio",
+    "fauna": ["ballena"],
+    "flora": ["acacia"],
+    "imagen": "f.jpg",
+    "region": "America del sur",
+    "nombre": "Chile"
+  }
+]}
